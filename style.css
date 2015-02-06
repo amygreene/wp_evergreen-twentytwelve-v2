@@ -51,8 +51,8 @@ body .site {
 	  padding:1em;
 }
 
-.nav-menu {
-	border-top: 2px #64933A solid;
+.main-navigation li a {
+	text-transform:capitalize;
 }
 
 .archive-title, .page-title, .widget-title, .entry-content th, .comment-content th {
