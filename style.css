@@ -53,7 +53,11 @@ body .site {
 
 .main-navigation li a {
 	text-transform:capitalize;
+	color: #64933A;
+	font-size:1.3em;
+	line-height:3.0;
 }
+
 
 .archive-title, .page-title, .widget-title, .entry-content th, .comment-content th {
 	color:#002D50;
