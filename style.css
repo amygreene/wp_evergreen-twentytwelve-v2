@@ -51,6 +51,12 @@ body .site {
 	  padding:1em;
 }
 
+.widget-area .widget h3 {
+	border-bottom:solid 1px #366A92;
+	color:#366A92;
+	color:#004377;
+	font-size:1em;
+}
 .main-navigation li a {
 	text-transform:capitalize;
 	color: #64933A;
@@ -58,11 +64,10 @@ body .site {
 	line-height:3.0;
 }
 
-
 .archive-title, .page-title, .widget-title, .entry-content th, .comment-content th {
 	color:#002D50;
 	text-transform:capitalize;
-	font-size: 0.875rem;
+	font-size: 1.2rem;
 }
 
 @media screen and (max-width: 600px) {
